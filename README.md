@@ -1,7 +1,7 @@
-This is a repository contatining two programs.
+This repository contains three programs that mostly cover Linear Algebra and some Statistics.
 
-# question 1 :- is a Program that uses dynamic programming to calculate minimum amount of currency denominations 
-required to buy certain birds (which have a certain cost)
+## Determinants :- A program that implements basic Python functionality to compute the determinant of a matrix and find the determinant forming matrix permutations. 
 
-# question 2 :- is a Program that uses Object Oriented Programming framework to construct a class for Stocks
-and Portfolios and then uses Methods to find out expected value of the portfolio and some other parameters.
+## NLP_technote_akash_2 :- A program that demonstrates basic concepts using R relating to statistical mixture models and expectation maximization theorum.
+
+## Nullspace_python :- A program that implements basic Python functionality to find the nullspace solutions of a matrix.
